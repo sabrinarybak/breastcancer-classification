@@ -1,0 +1,21 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# Ignorera virtuell miljö
+venv/
+
+# Ignorera Python-cachefiler
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignorera Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignorera OS-specifika filer
+.DS_Store
+
+# Ignorera loggar och tillfälliga filer
+*.log
+*.tmp
+
+# Ignorera eventuella miljöfiler
+.env
